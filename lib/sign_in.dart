@@ -8,7 +8,6 @@ import 'main_pages/sign_up.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 
-
 class SignIn extends StatefulWidget {
   const SignIn({Key? key}) : super(key: key);
 
