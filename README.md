@@ -1,6 +1,6 @@
 # CutiCare
 
-A Flutter project that allows the user to diagnose the five most prevalent skin diseases.
+A Flutter project that allows the user to diagnose five of the most prevalent skin diseases.
 
 ## Overview
 The major goal of the project was to develop a cross-platform skin disease detection mobile application that could identify up to three prevalent skin diseases using deep learning. Our team was able to cover 5 skin illnesses using the DermNet dataset along with the transfer learning approach with ResNet-50 model, achieving a 60 percent accuracy.
